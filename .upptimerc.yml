@@ -18,7 +18,7 @@ status-website:
   # baseUrl: /status-tarifar
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Status - Tarifar**
+  introTitle: "**Status - Tarifar**"
   introMessage: Estado de los sitios Tarifar 
   navbar:
     - title: Status

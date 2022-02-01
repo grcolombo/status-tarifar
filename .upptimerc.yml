@@ -8,7 +8,7 @@ sites:
   - name: App Tarifar
     url: https://app.tarifar.com
   - name: Campus Tarifar
-    url: https://campus.tarifar.com
+    url: http://campus.tarifar.com/
   
 
 status-website:

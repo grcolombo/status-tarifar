@@ -17,8 +17,8 @@ status-website:
   #cname: grcolombo.github.io
   baseUrl: /status-tarifar
   logoUrl: https://web.tarifar.com/wp-content/uploads/2019/07/Logo.jpg
-  #name: Upptime
-  introTitle: "**Status - Tarifar**"
+  name: Sistema de monitoreo 
+  introTitle: "**Monitoreo - Tarifar**"
   introMessage: Estado de los sitios Tarifar 
   #navbar:
   #  - title: Status

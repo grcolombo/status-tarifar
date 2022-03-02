@@ -4,18 +4,20 @@
     "url": "https://web.tarifar.com",
     "icon": "https://favicons.githubusercontent.com/web.tarifar.com",
     "slug": "web-tarifar",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1656,
-    "timeDay": 1491,
-    "timeWeek": 1594,
-    "timeMonth": 1691,
-    "timeYear": 1656,
-    "dailyMinutesDown": {}
+    "time": 1622,
+    "timeDay": 957,
+    "timeWeek": 1448,
+    "timeMonth": 1650,
+    "timeYear": 1622,
+    "dailyMinutesDown": {
+      "2022-03-02": 0
+    }
   },
   {
     "name": "App Tarifar",
@@ -40,17 +42,19 @@
     "url": "http://campus.tarifar.com/",
     "icon": "https://favicons.githubusercontent.com/campus.tarifar.com",
     "slug": "campus-tarifar",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 896,
-    "timeDay": 743,
-    "timeWeek": 823,
-    "timeMonth": 882,
-    "timeYear": 896,
-    "dailyMinutesDown": {}
+    "time": 880,
+    "timeDay": 536,
+    "timeWeek": 761,
+    "timeMonth": 864,
+    "timeYear": 880,
+    "dailyMinutesDown": {
+      "2022-03-02": 0
+    }
   }
 ]
